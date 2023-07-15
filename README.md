@@ -59,10 +59,11 @@ was a list with mixed in with with floats, 0s and nulls. I checked for
 non-zero floats within the lists and only used those for my pandas DataFrame.
 
 # Data Visualizations
+
+![european_expense](https://github.com/spausum/consumer-spending-analysis/assets/121176362/a8d4d075-fdad-4c94-8d78-b1d7b9fcda59)
 ![2019_flight_paths](https://github.com/spausum/consumer-spending-analysis/assets/121176362/2096c1a4-9ceb-4cb6-8634-491e5dd96774)
 ![2020_flight_paths](https://github.com/spausum/consumer-spending-analysis/assets/121176362/edfc0c7c-9b8f-4650-97c8-f5d3ca4e48b2)
 ![flight_revenue](https://github.com/spausum/consumer-spending-analysis/assets/121176362/00414255-4083-49bf-883e-952f81c2cb5e)
 ![food_spending](https://github.com/spausum/consumer-spending-analysis/assets/121176362/36e18166-3b34-4008-bb94-37f43d25227a)
-![2020_euro_countries](https://github.com/spausum/consumer-spending-analysis/assets/121176362/80b3c1bd-cc58-486c-b65a-5b88323f6698)
 
 
